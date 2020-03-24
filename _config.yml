@@ -1,1 +1,7 @@
+title: S!THás' Stuffs
+author:
+  name: Gábor Szitás
+  email: gabor.szitas.work@gmail.com
+minima:
+  date_format: '%Y. %b %d.'
 theme: minima
