@@ -3,7 +3,7 @@ layout: post
 title: Mandarindzsem
 tags:
   - gasztronómia
-  - lekvár
+  - lekvárok
 source: https://www.nosalty.hu/recept/mandarindzsem
 ---
 

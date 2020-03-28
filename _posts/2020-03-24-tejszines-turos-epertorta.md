@@ -3,7 +3,8 @@ layout: post
 title: Tejszínes-túrós epertorta
 tags:
   - gasztronómia
-  - édesség
+  - desszertek
+  - torták
 source: https://m.nosalty.hu/recept/tejszines-turos-epertorta
 ---
 
