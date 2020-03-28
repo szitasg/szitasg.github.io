@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Mandarindzsem"
+title: Mandarindzsem
 tags:
-  - recept
+  - gasztronómia
   - lekvár
-source: "https://www.nosalty.hu/recept/mandarindzsem"
+source: https://www.nosalty.hu/recept/mandarindzsem
 ---
 
-<img src="/public/image/mandarindzsem.jpg" alt="mandarindzsem" style="width:100%;"/>
+<img src="/public/image/mandarindzsem.jpg" alt="mandarindzsem"/>
 
 ### Hozzávalók
 Módosítva az eredeti recepthez képest
