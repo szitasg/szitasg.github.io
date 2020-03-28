@@ -295,17 +295,18 @@
 
 
 .post-source {
-    margin-top: $spacing-unit;
+  margin-top: $spacing-unit;
 }
 
 
 .social-media-list {
-  display: table;
-  margin: 0 auto;
+  float: right;
+
   li {
     float: left;
     margin: 5px 10px 5px 0;
     &:last-of-type { margin-right: 0 }
+
     a {
       display: block;
       padding: $spacing-unit / 4;
@@ -313,6 +314,14 @@
       &:hover { border-color: darken($brand-color-light, 10%) }
     }
   }
+}
+
+.rss:hover {
+  color: #f26522 !important;
+}
+
+.linkedin:hover {
+  color: #0073B0 !important;
 }
 
 
