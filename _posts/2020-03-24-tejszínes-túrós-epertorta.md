@@ -1,9 +1,13 @@
 ---
 layout: post
 title: "Tejszínes-túrós epertorta"
-categories: recept édesség
+tags:
+  - recept
+  - édesség
 source: "https://m.nosalty.hu/recept/tejszines-turos-epertorta"
 ---
+
+<img src="/public/image/tejszines-turos-epertorta.jpg" alt="tejszines-turos-epertorta" style="width:100%;"/>
 
 ### Hozzávalók
 Módosítva az eredeti recepthez képest
