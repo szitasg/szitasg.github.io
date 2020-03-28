@@ -4,6 +4,8 @@ author:
   email: gabor.szitas.work@gmail.com
 minima:
   date_format: '%Y. %b %d.'
+  social_links:
+    linkedin: gábor-szitás-6b6b1957
 theme: minima
 plugins:
   - jekyll-feed
