@@ -37,11 +37,11 @@ layout: default
     {%- if page.tags -%}
         <div class="post-tags">
         {% for tag in page.tags %}
-            <a href="{{ tag | relative_url }}">
+            <a href="/public/tag/{{ tag.url }}">
                 <svg class="svg-icon grey">
                     <use xlink:href="{{ 'assets/minima-social-icons.svg#tag' | relative_url }}"></use>
                 </svg>
-                {{ tag }}
+                {{ tag.name }}
             </a>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}

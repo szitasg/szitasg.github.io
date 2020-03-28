@@ -2,8 +2,10 @@
 layout: post
 title: Mandarindzsem
 tags:
-  - gasztronómia
-  - lekvárok
+  - name: gasztronómia
+    url: gasztronomia
+  - name: lekvárok
+    url: lekvarok
 source: https://www.nosalty.hu/recept/mandarindzsem
 ---
 
@@ -20,12 +22,14 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
-Pucoljunk meg 1-2 mandarint, szedjük ki a gyümölcshúst a hártyából, majd tegyük egy nagyobb edénybe.
-Adjuk hozzá a többi mandarin levét és rostját (ezt citromfacsaróval a legkönnyebb és leggyorsabb).
+Pucoljunk meg 1-2 mandarint, szedjük ki a gyümölcshúst a hártyából, majd tegyük
+egy nagyobb edénybe. Adjuk hozzá a többi mandarin levét és rostját (ezt
+citromfacsaróval a legkönnyebb és leggyorsabb).
 
-A gyömbért meghámozzuk, hozzáreszeljük a mandarinhoz. Ezután a többi hozzávalót is hozzáadhatjuk.
+A gyömbért meghámozzuk, hozzáreszeljük a mandarinhoz. Ezután a többi hozzávalót
+is hozzáadhatjuk.
 
-Felrakjuk főni, mikor a cukor körülbelül elolvadt benne botmixerrel áttörjük a kívánt állagúra.
-Ezután felforraljuk majd további 5 percig főzzük, kevergetve.
+Felrakjuk főni, mikor a cukor körülbelül elolvadt benne botmixerrel áttörjük a
+kívánt állagúra. Ezután felforraljuk majd további 5 percig főzzük, kevergetve.
 
 Tiszta üvegekbe töltjük és kész. 1 kg mandarinból olyan 750 ml dzsem lesz.
