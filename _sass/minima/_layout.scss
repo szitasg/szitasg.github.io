@@ -294,8 +294,20 @@
 }
 
 
-.post-source {
+.post-tags {
   margin-top: $spacing-unit;
+}
+
+.post-tags,
+.post-source {
+  a {
+    font-size: 13px;
+
+    .svg-icon {
+      height: 13px;
+      padding-right: 0px;
+    }
+  }
 }
 
 
