@@ -1,5 +1,6 @@
 title: S!THás' Stuffs
 author:
+  date: 2020
   name: Gábor Szitás
   email: gabor.szitas.work@gmail.com
 minima:
@@ -10,4 +11,4 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-google_analytics: UA-34910729-1
+google_analytics: UA-34910729-2
