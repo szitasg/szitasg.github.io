@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-# -*- coding: utf-8 -*-
+#!python3
 
 import glob
 import os
@@ -9,8 +8,16 @@ import yaml
 class TagGenerator(object):
 
     POST_DIR = '_posts/'
-    TAG_DIR = 'public/tag/'
-    TAG_TEMPLATE = '---\nlayout: tag\ntitle: %s\ntag:\n  name: %s\n  url: %s\nrobots: noindex\n---\n'
+    TAG_DIR = 'tag/'
+    TAG_TEMPLATE = \
+        '---\n' \
+        'layout: tag\n' \
+        'title: %s\n' \
+        'tag:\n' \
+        '  name: %s\n' \
+        '  url: %s\n' \
+        'robots: noindex\n' \
+        '---\n'
 
     def __init__(self):
         if not os.path.exists(self.TAG_DIR):
@@ -35,8 +42,9 @@ class TagGenerator(object):
                         tags.append(tag)
 
         for tag in tags:
-            with open('%s%s.md' % (self.TAG_DIR, tag['url']), 'a', encoding='utf8') as tag_file:
-                tag_file.write(self.TAG_TEMPLATE % (tag['name'], tag['name'], tag['url']))
+            with open('%s%s.md' % (self.TAG_DIR, tag['url']), 'w',
+                      encoding='utf8', newline='\n') as tag_file:
+                tag_file.write(self.TAG_TEMPLATE % (tag['name'].capitalize(), tag['name'], tag['url']))
 
 
 if __name__ == '__main__':

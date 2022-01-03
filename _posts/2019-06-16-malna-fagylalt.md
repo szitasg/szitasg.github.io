@@ -1,6 +1,10 @@
 ---
 layout: post
+
 title: Málna fagylalt
+
+source: Street Kitchen magazin 2018/1. szám / nyár
+
 tags:
   - name: gasztronómia
     url: gasztronomia
@@ -8,7 +12,6 @@ tags:
     url: desszertek
   - name: fagylaltok
     url: fagylaltok
-source: Street Kitchen magazin 2018/1. szám / nyár
 ---
 
 ### Hozzávalók
@@ -23,4 +26,16 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
-A recept szerint
+A tejszínt és a tejet elkezdjük felforralni, közben a tojássárgájákat habosra 
+keverjük 2/3 cukorral, majd hozzáadjuk a forrásban lévő tejes-tejszínes 
+keverékhez és pár percig, folyamatos keverés mellett felforraljuk.
+
+A málnát a maradék cukorral kb. 10-15 percig kevergetve sűrítjük/forraljuk, majd 
+egy szűrőn átpaszírozzuk.
+
+A sűrű málnalevet és a tojássárgájás keveréket összeöntjük, belekeverjük az
+apróra vágott bazsalikomleveleket és hűtőhidegre hűtjük.
+
+A fagyialapot fagyigépben elkészítjük vagy ha nincs, akkor óránként átkeverjük
+az alapot botmixerrel vagy késes aprítóval és úgy rakjuk vissza a fagyasztóba.
+2020-03-10-mandarindzsem.md

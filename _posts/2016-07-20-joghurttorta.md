@@ -1,6 +1,10 @@
 ---
 layout: post
+
 title: Joghurttorta
+
+description: Egy igazán könnyed és frissítő sütemény a nyári melegben
+
 tags:
   - name: gasztronómia
     url: gasztronomia

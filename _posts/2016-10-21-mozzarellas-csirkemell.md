@@ -1,6 +1,10 @@
 ---
 layout: post
+
 title: Mozzarellás csirkemell
+
+description: 
+
 tags:
   - name: gasztronómia
     url: gasztronomia

@@ -1,12 +1,15 @@
 ---
 layout: post
+
 title: Steakburgonya
+
+source: https://cookpad.com/hu/receptek/1924491-steakburgonya
+
 tags:
   - name: gasztronómia
     url: gasztronomia
   - name: köretek
     url: koretek
-source: https://cookpad.com/hu/receptek/1924491-steakburgonya
 ---
 
 ### Hozzávalók

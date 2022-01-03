@@ -1,0 +1,41 @@
+---
+layout: main
+---
+
+{% for post in paginator.posts %}
+<article class="post">
+  {% if post.img %}
+    {%- assign image = '/public/' | prepend: site.baseurl | append: post.img -%}
+  {% else %}
+    {%- assign image = post.tags[0].name | capitalize | prepend: 'https://dummyimage.com/600x600/333030/fbfbfb&text=&nbsp;&nbsp;' | append : '&nbsp;&nbsp;' -%}
+  {% endif %}
+  <a class="post-thumbnail" style="background-image: url({{ image }})" href="{{ post.url | prepend: site.baseurl }}"></a>
+  <div class="post-content">
+    <h2 class="post-title">
+      <a href="{{ post.url | prepend: site.baseurl }}">
+        {{ post.title }}
+      </a>
+    </h2>
+    <div>
+      <p class="post-description">{{ post.description }}</p>
+      <span class="post-date">
+        {{ post.date | date: site.feature.date_format }}
+        &nbsp;—&nbsp;
+      </span>
+      <span class="post-words">
+        {% capture words %}{{ post.content | number_of_words }}{% endcapture %}{% unless words contains "-" %}{{ words | plus: 250 | divided_by: 250 | append: " minute read" }}{% endunless %}
+      </span>
+    </div>
+    <div class="page-tag">
+      {% for tag in post.tags %}
+        <a href="{{ site.baseurl }}/tag/{{ tag.url }}" class="tag">
+          <i class="fa fa-tag" aria-hidden="true"></i>&nbsp;
+          {{ tag.name }}
+        </a>
+      {% endfor %}
+    </div>
+  </div>
+</article>
+{% endfor %}
+
+{% include pagination.html %}

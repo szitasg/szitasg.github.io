@@ -1,6 +1,10 @@
 ---
 layout: post
-title: Sajttorta
+
+title: Vadas csirke
+
+source: https://www.nosalty.hu/recept/vadas-csirke-zsemlegomboccal
+
 tags:
   - name: gasztronómia
     url: gasztronomia
@@ -8,7 +12,6 @@ tags:
     url: foetelek
   - name: csirkéből készült ételek
     url: csirkebol-keszult-etelek
-source: https://www.nosalty.hu/recept/vadas-csirke-zsemlegomboccal
 ---
 
 ### Hozzávalók

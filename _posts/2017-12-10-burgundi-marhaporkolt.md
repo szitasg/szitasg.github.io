@@ -1,6 +1,10 @@
 ---
 layout: post
+
 title: Burgundi marhapörkölt
+
+source: https://streetkitchen.hu/hust-hussal/brutalisan-finom-burgundi-marharagu/
+
 tags:
   - name: gasztronómia
     url: gasztronomia
@@ -10,7 +14,6 @@ tags:
     url: marhabol-keszult-etelek
   - name: pörköltek
     url: porkoltek
-source: https://streetkitchen.hu/hust-hussal/brutalisan-finom-burgundi-marharagu/
 ---
 
 ### Hozzávalók

@@ -1,14 +1,37 @@
 title: S!THás' Stuffs
-author:
-  date: 2020
-  name: Gábor Szitás
-  email: gabor.szitas.work@gmail.com
-minima:
-  date_format: '%Y. %b %d.'
-  social_links:
-    linkedin: gábor-szitás-6b6b1957
-theme: minima
+description: |
+  TODO
+url: https://szitasg.github.io
+baseurl:
+site-twitter:
+
+# Author Settings
+author: Gábor Szitás
+author-img: me.jpg
+about-author:
+social-twitter:
+social-facebook:
+social-github: szitasg
+social-linkedin: gábor-szitás-6b6b1957
+social-email: gabor.szitas.work@gmail.com
+
+# Tracker
+analytics: UA-34910729-2
+
+# Build Settings
+markdown: kramdown
 plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-google_analytics: UA-34910729-2
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jemoji
+paginate: 8
+paginate_path: /page/:num
+exclude:
+  - node_modules
+  - gulpfile.js
+  - package.json
+  - yarn.lock
+
+# szitasg feature
+feature:
+  date_format: '%Y. %b %d.'

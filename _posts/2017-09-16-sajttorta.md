@@ -1,6 +1,10 @@
 ---
 layout: post
+
 title: Sajttorta
+
+source: http://www.nlcafe.hu/gasztro/20160124/sajttorta-hazi-recept/amp/
+
 tags:
   - name: gasztronómia
     url: gasztronomia
@@ -8,7 +12,6 @@ tags:
     url: desszertek
   - name: torták
     url: tortak
-source: http://www.nlcafe.hu/gasztro/20160124/sajttorta-hazi-recept/amp/
 ---
 
 ### Hozzávalók

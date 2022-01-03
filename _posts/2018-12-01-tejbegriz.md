@@ -1,12 +1,15 @@
 ---
 layout: post
+
 title: Tejbegríz
+
+source: http://www.mindmegette.hu/tejbegriz.recept/
+
 tags:
   - name: gasztronómia
     url: gasztronomia
   - name: desszertek
     url: desszertek
-source: http://www.mindmegette.hu/tejbegriz.recept/
 ---
 
 ### Hozzávalók
