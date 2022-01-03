@@ -1,0 +1,17 @@
+<footer class="site-footer h-card">
+
+    <data class="u-url" href="{{ '/' | relative_url }}"></data>
+
+    <div class="wrapper">
+        <div class="footer-copyright">
+            {%- if site.author %}
+                &copy; {{ site.author.date }}
+                <a href="mailto:{{ site.author.email }}">
+                    {{ site.author.name | upcase }}
+                </a>
+                All rights reserved
+            {%- endif %}
+        </div>
+    </div>
+
+</footer>
