@@ -936,7 +936,8 @@ table tfoot td {
   background-color: #ffffff;
 }
 
-.about {
+.about,
+.menu {
   margin: 0 0 40px;
   text-align: center;
 }
@@ -1061,7 +1062,8 @@ table tfoot td {
   background-color: #515151;
 }
 
-.contact ul {
+.contact ul,
+.menu ul {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -1077,7 +1079,8 @@ table tfoot td {
   margin-left: 0;
 }
 
-.contact ul li a {
+.contact ul li a,
+.menu ul li a {
   color: #515151;
   display: block;
   padding: 5px;
@@ -1087,7 +1090,12 @@ table tfoot td {
   transition: all 350ms cubic-bezier(0.13, 0.43, 0.54, 1.82);
 }
 
-.contact ul li a:hover {
+.menu ul li a {
+  text-decoration: none;
+}
+
+.contact ul li a:hover,
+.menu ul li a:hover {
   color: #333030;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);

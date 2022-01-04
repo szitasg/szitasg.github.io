@@ -11,6 +11,22 @@ layout: default
       <div class="author-name">{{ site.title }}</div>
       <p>{{ site.about-author }}</p>
     </div>
+    <div class="menu">
+      <ul>
+      {%- assign categories = '' -%}
+      {% for post in site.posts -%}
+        {%- assign category = post.tags[0] -%}
+        {% unless categories contains category.url %}
+          <li>
+            <a href="{{ site.baseurl }}/tag/{{ category.url }}" title="{{ category.name | capitalize }}">
+              {{ category.name | capitalize }}
+            </a>
+          </li>
+          {%- assign categories = categories | append: ';' | append: category.url -%}
+        {% endunless %}
+      {%- endfor %}
+      </ul>
+    </div>
   </header> <!-- End Header -->
   <footer>
     <section class="contact">
