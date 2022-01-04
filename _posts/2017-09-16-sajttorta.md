@@ -3,7 +3,7 @@ layout: post
 
 title: Sajttorta
 
-source: http://www.nlcafe.hu/gasztro/20160124/sajttorta-hazi-recept/amp/
+source: https://nlc.hu/gasztro/20160124/sajttorta-hazi-recept/amp/
 
 tags:
   - name: gasztronómia

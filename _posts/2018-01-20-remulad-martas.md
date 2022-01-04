@@ -3,7 +3,7 @@ layout: post
 
 title: Remulád mártás
 
-source: https://streetkitchen.hu/halak/tokeletes-lazac-remuladmartassal/
+source: https://streetkitchen.hu/halak/tokeletes-lazac-remuladmartassal
 
 tags:
   - name: gasztronómia

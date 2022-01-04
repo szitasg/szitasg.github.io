@@ -3,7 +3,7 @@
 {% include head.html %}
 <body>
   <div class="wrapper">
-    {{ content }}
+    {{ content | remove: '  ' | strip_newlines }}
   </div>
   {% include analytics.html %}
 </body>

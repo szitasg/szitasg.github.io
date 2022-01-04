@@ -7,7 +7,7 @@ layout: main
   {% if post.img %}
     {%- assign image = '/public/' | prepend: site.baseurl | append: post.img -%}
   {% else %}
-    {%- assign image = post.tags[0].name | capitalize | prepend: 'https://dummyimage.com/600x600/333030/fbfbfb&text=&nbsp;&nbsp;' | append : '&nbsp;&nbsp;' -%}
+    {%- assign image = post.tags[0].name | capitalize | prepend: 'https://dummyimage.com/300x300/333030/fbfbfb&text=&nbsp;&nbsp;' | append : '&nbsp;&nbsp;' -%}
   {% endif %}
   <a class="post-thumbnail" style="background-image: url({{ image }})" href="{{ post.url | prepend: site.baseurl }}"></a>
   <div class="post-content">

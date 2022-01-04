@@ -3,7 +3,7 @@ layout: post
 
 title: Burgundi marhapörkölt
 
-source: https://streetkitchen.hu/hust-hussal/brutalisan-finom-burgundi-marharagu/
+source: https://streetkitchen.hu/hust-hussal/brutalisan-finom-burgundi-marharagu
 
 tags:
   - name: gasztronómia
