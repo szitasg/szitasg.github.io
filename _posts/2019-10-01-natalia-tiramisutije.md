@@ -48,6 +48,6 @@ Már csak az összeállítás maradt hátra. Egy kb. 35 cm átlójú tálba raku
 kisebb adag krémet és elegyengetjük. A babapiskótákat 2-3 másodpercre a kávéba
 mártjuk és rásorakoztatjuk őket a krémre. Majd újra jön egy adag mascarponés
 krémréteg, rá két sor babapiskóta, majd az egészet krémmel zárjuk. Utolsó
-lépésként megszórjuk egy nagy adag kakaóporral és hűtőbe rakjuk, legalább 3
+lépésként megszórjuk egy nagy adag kakaóporral és hűtőbe rakjuk, legalább 3 
 órára, de a legjobb egy egész éjszakát pihentetni hogy jól összeérjenek az
 ízek.
