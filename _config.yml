@@ -1,13 +1,12 @@
 title: S!THás' Stuffs
-description: |
-  TODO
+description: Personal blog including cooking, LEGO, IT, renovation, parenting and a lot of other topics
 url: https://szitasg.github.io
 baseurl:
 site-twitter:
 
-# Author Settings
+# Author settings
 author: Gábor Szitás
-author-img: me.jpg
+img: me.jpg
 about-author:
 social-twitter:
 social-facebook:
@@ -26,11 +25,6 @@ plugins:
   - jemoji
 paginate: 8
 paginate_path: /page/:num
-exclude:
-  - node_modules
-  - gulpfile.js
-  - package.json
-  - yarn.lock
 
 # szitasg feature
 feature:
