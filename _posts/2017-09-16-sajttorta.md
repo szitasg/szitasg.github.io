@@ -31,14 +31,14 @@ Módosítva az eredeti recepthez képest
 
 ### Elkészítés
 A sütőt melegítsd elő. A tésztához a hozzávalókat alaposan keverd össze, majd
-simítsd kb. 20-22 cm átmérőjű sütőtálba.
+ simítsd kb. 20-22 cm átmérőjű sütőtálba.
 
 A sajttorta töltelékéhez a mascarponét a cukorral, a tojássárgákkal, a
-citromlével és a vaníliaaromával robotgép segítségével keverd krémesre. A
-tojásfehérjékből keményre vert habot keverd a sajtkrémhez. Az elkészült
-tölteléket öntsd a tortára, majd told az edényt a sütőbe 35 percre. A sütési
-idő lejártát követően kapcsold ki a sütőt, de a sajttortát még hagyd bent egy
-órát. Fontos, hogy addig ne nyisd ki a sütő ajtaját.
+ citromlével és a vaníliaaromával robotgép segítségével keverd krémesre. A
+ tojásfehérjékből keményre vert habot keverd a sajtkrémhez. Az elkészült
+ tölteléket öntsd a tortára, majd told az edényt a sütőbe 35 percre. A sütési
+ idő lejártát követően kapcsold ki a sütőt, de a sajttortát még hagyd bent egy
+ órát. Fontos, hogy addig ne nyisd ki a sütő ajtaját.
 
 Amikor lehűlt, a sajttortát tedd hűtőszekrénybe, majd hidegen szeleteld.
 

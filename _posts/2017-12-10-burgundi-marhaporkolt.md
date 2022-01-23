@@ -40,19 +40,19 @@ tags:
 
 ### Elkészítés
 A húst nagyobb kockákra vágjuk és kevés olajon több részletben jó alaposan
-lepirítjuk, majd kiszedjük a lábasból. A lepirult cuccon üvegesre pároljuk a
-finomra vágott vöröshagymát majd hozzákeverjük a paradicsompürét, ha
-rozsdabarna színű akkor rádobjuk a fokhagymát is. Visszarakjuk rá a húst,
-megszórjuk a liszttel, átforgatjuk és egy kicsit pirítjuk. Felöntjük a
-vörösborral, sózzuk és borsozzuk, belenyomjuk a zöldfűszereket és a Worcester
-szószt, majd fedő nélkül kis lángon 1 órán keresztül főzzük.
+ lepirítjuk, majd kiszedjük a lábasból. A lepirult cuccon üvegesre pároljuk a
+ finomra vágott vöröshagymát majd hozzákeverjük a paradicsompürét, ha
+ rozsdabarna színű akkor rádobjuk a fokhagymát is. Visszarakjuk rá a húst,
+ megszórjuk a liszttel, átforgatjuk és egy kicsit pirítjuk. Felöntjük a
+ vörösborral, sózzuk és borsozzuk, belenyomjuk a zöldfűszereket és a Worcester
+ szószt, majd fedő nélkül kis lángon 1 órán keresztül főzzük.
 
 Nagy darabokra vágjuk a sárgarépát és ezt is a készülő húshoz adjuk, majd
-felöntjük a vízzel és lefedve kis lángon 2-2,5 órán keresztül pároljuk,
-időnként átkeverve. Ha a szaft nem lenne elegendő mennyiségű (pörkölt állag a
-cél), akkor kevés vizet öntünk alá és jól összerázzuk. Közben a gombákat
-félbevágjuk és száraz, forró serpenyőben, só nélkül jó erősen lepirítjuk.
-Amikor a ragu kész, utolsó mozzanatként még beleszórjuk a pirított gombát és a
+ felöntjük a vízzel és lefedve kis lángon 2-2,5 órán keresztül pároljuk,
+ időnként átkeverve. Ha a szaft nem lenne elegendő mennyiségű (pörkölt állag a
+ cél), akkor kevés vizet öntünk alá és jól összerázzuk. Közben a gombákat
+ félbevágjuk és száraz, forró serpenyőben, só nélkül jó erősen lepirítjuk.
+ Amikor a ragu kész, utolsó mozzanatként még beleszórjuk a pirított gombát és a
  gyöngyhagymát, rottyantun rakja egyet és meg is vagyunk!
 
 Köretnek krumplipüré javasolt.

@@ -27,15 +27,14 @@ Módosítva az eredeti recepthez képest
 
 ### Elkészítés
 A tejszínt és a tejet elkezdjük felforralni, közben a tojássárgájákat habosra 
-keverjük 2/3 cukorral, majd hozzáadjuk a forrásban lévő tejes-tejszínes 
-keverékhez és pár percig, folyamatos keverés mellett felforraljuk.
+ keverjük 2/3 cukorral, majd hozzáadjuk a forrásban lévő tejes-tejszínes 
+ keverékhez és pár percig, folyamatos keverés mellett felforraljuk.
 
 A málnát a maradék cukorral kb. 10-15 percig kevergetve sűrítjük/forraljuk, majd 
-egy szűrőn átpaszírozzuk.
+ egy szűrőn átpaszírozzuk.
 
 A sűrű málnalevet és a tojássárgájás keveréket összeöntjük, belekeverjük az
-apróra vágott bazsalikomleveleket és hűtőhidegre hűtjük.
+ apróra vágott bazsalikomleveleket és hűtőhidegre hűtjük.
 
 A fagyialapot fagyigépben elkészítjük vagy ha nincs, akkor óránként átkeverjük
-az alapot botmixerrel vagy késes aprítóval és úgy rakjuk vissza a fagyasztóba.
-2020-03-10-mandarindzsem.md
+ az alapot botmixerrel vagy késes aprítóval és úgy rakjuk vissza a fagyasztóba.

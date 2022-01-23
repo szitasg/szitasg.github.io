@@ -25,7 +25,7 @@ Módosítva az eredeti recepthez képest
 Módosítva az eredeti recepthez képest
 
 A krumplit meghámozzuk, felszeleteljük és megfőzzük. Egy tálban összekeverjük a 
-majonézt a tejföllel, beleszórjuk a vékonyra vágott lilahagymát/hagymát, majd 
-sózzuk, borsozzuk és belekeverjük a krumplit.
+ majonézt a tejföllel, beleszórjuk a vékonyra vágott lilahagymát/hagymát, majd 
+ sózzuk, borsozzuk és belekeverjük a krumplit.
 
 Hogy az ízek összeérjenek célszerű előző este elkészíteni.

@@ -39,24 +39,23 @@ Módosítva az eredeti recepthez képest
 
 #### Piskóta elkészítése
 A sütőt előmelegítjük 170 °C fokra. A 24 cm-es tortaformát sütőpapírral
-kibéleljük.
-A tojások fehérjét a kristálycukorral és a vízzel kemény habbá verjük, majd
-óvatosan (vagy habverővel) belekeverjük a tojások sárgáját.
+ kibéleljük. A tojások fehérjét a kristálycukorral és a vízzel kemény habbá 
+ verjük, majd óvatosan (vagy habverővel) belekeverjük a tojások sárgáját.
+
 A lisztet a szódabikarbónával és a kakaóporral összekeverjük, és a tojáshabba
-szitáljuk, majd óvatosan belekeverjük.
-A piskótát a tortaformába helyezzük, és egy habkártya segítségével felhúzzuk
-a tortaforma széléig, így homorú formát adva a piskótának. Majd készre sütjük.
+ szitáljuk, majd óvatosan belekeverjük. A piskótát a tortaformába helyezzük, és
+ egy habkártya segítségével felhúzzuk a tortaforma széléig, így homorú formát 
+ adva a piskótának. Majd készre sütjük.
 
 #### Krém elkészítése
 A habtejszínt a porcukorral kemény habbá verjük, majd a habfixálóval fixáljuk.
-A túrót egy villával áttörjük, és összekeverjük a habtejszínnel.
-Az eper összeturmixoljuk, és a túrós habtejszínhez keverjük. Majd
-eperdarabokkal gazdagítjuk.
+ A túrót egy villával áttörjük, és összekeverjük a habtejszínnel. Az epret 
+ összeturmixoljuk, és a túrós habtejszínhez keverjük. Majd eperdarabokkal 
+ gazdagítjuk.
 
 #### Torta összeállítása
-Az elkészült és kihűlt piskótát 3 egyenlő szeletre vágjuk.
-A krémmel megtöltjük a piskótát és bevonjuk a torta oldalát.
-Tetszés szerint dekoráljuk.
+Az elkészült és kihűlt piskótát 3 egyenlő szeletre vágjuk. A krémmel megtöltjük
+ a piskótát és bevonjuk a torta oldalát. Tetszés szerint dekoráljuk.
 
 
 ### Sütés

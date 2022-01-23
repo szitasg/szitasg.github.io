@@ -27,10 +27,10 @@ tags:
 Módosítva az eredeti recepthez képest
 
 A bacon-t, vagy kolozsvári szalonnát vágjuk kis kockákra, majd pirítsuk meg egy 
-serpenyőben egy kis zsiradék hozzáadásával.
+ serpenyőben egy kis zsiradék hozzáadásával.
 
 Minden hozzávalót tegyünk egy késes aprítóba, ózzuk, borsozzuk és egyenletesre
-keverjük.
+ keverjük.
 
 Tálaljuk zöldséghasábokkal, saláta levelekkel és kenyérchipsszel, tortillával 
-vagy sós keksszel. Ezt a mártogatóst szendvicskrémként is használhatjuk.
+ vagy sós keksszel. Ezt a mártogatóst szendvicskrémként is használhatjuk.

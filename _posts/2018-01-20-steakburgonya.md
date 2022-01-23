@@ -22,17 +22,17 @@ tags:
 
 ### Elkészítés
 A burgonyát jó alaposan mossuk meg egyenként, és héjában tegyük fel főni enyhén
-sós vízben. Mikor kést szúrunk bele, és érezzük, hogy a közepe is puha - kb. 50
-perc főzés után - akkor elkészült. Öntsük le róla a vizet, és készítsünk elő
-egy szilikonos sütőpapírral fedett sütőlemezt.
+ sós vízben. Mikor kést szúrunk bele, és érezzük, hogy a közepe is puha - kb. 50
+ perc főzés után - akkor elkészült. Öntsük le róla a vizet, és készítsünk elő
+ egy szilikonos sütőpapírral fedett sütőlemezt.
 
 A megfőtt burgonyaszemeket héjában cikkezzük fel, majd rendezzük el a
-sütőlemezen. Olívaolajjal kenjük meg a burgonyák vágott felületét. Sózzuk,
-borsozzuk, és ízlésünknek megfelelő zöldfűszerrel meghintjük.
+ sütőlemezen. Olívaolajjal kenjük meg a burgonyák vágott felületét. Sózzuk,
+ borsozzuk, és ízlésünknek megfelelő zöldfűszerrel meghintjük.
 
 200 °C-ra előmelegített sütőben légkeverés nélkül kb. 40 perc alatt megsütjük a
-burgonyákat. Ízlés szerint akár tovább is süthetjük, ha pirosabbra szeretnénk
-sütni.
+ burgonyákat. Ízlés szerint akár tovább is süthetjük, ha pirosabbra szeretnénk
+ sütni.
 
 
 ### Sütés

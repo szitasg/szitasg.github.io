@@ -22,4 +22,4 @@ tags:
 
 ### Elkészítés
 Minden hozzávalót összeöntünk, majd folyamatos keverés mellett főzzük, amíg
-sűrűsödni kezd.
+ sűrűsödni kezd.

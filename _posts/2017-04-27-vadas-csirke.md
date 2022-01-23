@@ -34,15 +34,15 @@ Módosítva az eredeti recepthez képest
 
 ### Elkészítés
 A répákat és a hagymát megpucoljuk, és közepesre aprítjuk. Az egészet egyben
-feltesszük főni, annyi vizet öntünk rá, hogy éppen ellepje. Só, kevés bors,
-babérlevél, kevés kurkuma. Forraljuk, majd lassú tűzön legalább 1/2 órán át
-teljesen puhára főzzük. Időnként megkeverjük.
+ feltesszük főni, annyi vizet öntünk rá, hogy éppen ellepje. Só, kevés bors,
+ babérlevél, kevés kurkuma. Forraljuk, majd lassú tűzön legalább 1/2 órán át
+ teljesen puhára főzzük. Időnként megkeverjük.
 
 A csirkemellet apróra felkockázzuk, majd egy lefedhető serpenyőben 1 ek vajon
-megpirítjuk, óvatosan sózzuk, majd közepes lángon készre pirítjuk. Pár perc
-után levét engedi, majd amikor ez is elforr alóla, kész.
+ megpirítjuk, óvatosan sózzuk, majd közepes lángon készre pirítjuk. Pár perc
+ után levét engedi, majd amikor ez is elforr alóla, kész.
 
 Amint a zöldségek puhára főttek, tűzről elvéve kivesszük a babérleveleket, és
-botmixerrel nem teljesen krémesre turmixoljuk. Hozzáadjuk a tejfölt, a mustárt
-és a csirkemellet. Elkeverjük, ízlés szerint sózzuk, borsozzuk és kb 10 perc
-főzéssel készen is vagyunk.
+ botmixerrel nem teljesen krémesre turmixoljuk. Hozzáadjuk a tejfölt, a mustárt
+ és a csirkemellet. Elkeverjük, ízlés szerint sózzuk, borsozzuk és kb 10 perc
+ főzéssel készen is vagyunk.

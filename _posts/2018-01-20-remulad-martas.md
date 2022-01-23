@@ -30,4 +30,4 @@ tags:
 
 ### Elkészítés
 Minden hozzávalót egy késes aprítóba pakolunk, és alaposan összezúzzuk – nem
-kell teljesen pépesre, picit darabos azért maradhat.
+ kell teljesen pépesre, picit darabos azért maradhat.
