@@ -3,7 +3,14 @@ layout: post
 
 title: Málna fagylalt
 
+img:
+
+description:
+
 source: Street Kitchen magazin 2018/1. szám / nyár
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

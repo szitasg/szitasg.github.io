@@ -3,6 +3,15 @@ layout: post
 
 title: Majonézes krumplisaláta
 
+img:
+
+description:
+
+source:
+
+languages:
+  - hu
+
 tags:
   - name: gasztronómia
     url: gasztronomia

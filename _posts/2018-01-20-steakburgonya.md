@@ -3,7 +3,14 @@ layout: post
 
 title: Steakburgonya
 
+img:
+
+description:
+
 source: https://cookpad.com/hu/receptek/1924491-steakburgonya
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

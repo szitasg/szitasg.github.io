@@ -3,9 +3,14 @@ layout: post
 
 title: Natália Tiramisüti<sup>©</sup>-je
 
+img:
+
 description: Olaszul a "tirami sú" azt jelenti, hogy "dobj fel", ezt úgy értelmezhetjük,  hogy a benne lévő kávé kicsit felpörgeti a fogyasztóját.
 
 source: https://streetkitchen.hu/receptek/igy-keszul-legfinomabb-tiramisu
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

@@ -3,7 +3,14 @@ layout: post
 
 title: Spenótos borsófőzelék
 
+img:
+
+description:
+
 source: http://www.azeletnaposoldala.hu/2020/06/spenotos-borsofozelek.html
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

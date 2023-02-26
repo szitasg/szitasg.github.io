@@ -3,9 +3,14 @@ layout: post
 
 title: Mandarindzsem
 
+img: mandarindzsem.jpg
+
+description:
+
 source: https://www.nosalty.hu/recept/mandarindzsem
 
-img: mandarindzsem.jpg
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

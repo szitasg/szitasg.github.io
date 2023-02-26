@@ -3,9 +3,14 @@ layout: post
 
 title: Tejszínes-túrós epertorta
 
+img: tejszines-turos-epertorta.jpg
+
+description:
+
 source: https://m.nosalty.hu/recept/tejszines-turos-epertorta
 
-img: tejszines-turos-epertorta.jpg
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

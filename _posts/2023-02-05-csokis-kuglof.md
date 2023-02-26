@@ -3,7 +3,14 @@ layout: post
 
 title: Csokis kuglóf
 
+img: csokis-kuglof.jpg
+
+description:
+
 source: https://femina.hu/recept/marvanyos-kuglof-recept
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia
@@ -18,9 +25,9 @@ Módosítva az eredeti recepthez képest
  - 200 g liszt
  - 125 g vaj
  - 2 tojás
- - 1 tábla étcsokoládé
+ - 100 g étcsokoládé
  - 80 g porcukor
- - 1 kk szódabikarbóna
+ - 6 g szódabikarbóna
  - 2 dl tej
 
 

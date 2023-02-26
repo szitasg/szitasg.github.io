@@ -3,7 +3,14 @@ layout: post
 
 title: Baconös, paradicsomos, mascarponés mártogató
 
+img:
+
+description:
+
 source: https://szarvasimozzarella.hu/recept-reszletek/baconos-paradicsomos-mascarpones-martogatos
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

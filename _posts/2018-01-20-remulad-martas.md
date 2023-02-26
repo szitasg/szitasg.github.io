@@ -3,7 +3,14 @@ layout: post
 
 title: Remulád mártás
 
+img:
+
+description:
+
 source: https://streetkitchen.hu/halak/tokeletes-lazac-remuladmartassal
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia
@@ -20,7 +27,7 @@ tags:
  - 1 mk tárkony
  - 225 g majonéz
  - 1 tk cukor
- - fehérbors ízlés szerint
+ - fehérbors (ízlés szerint)
  - só
  - fél fej vöröshagyma (az opcionálisok helyett)
  - 1 ek snidling (opcionális)

@@ -3,7 +3,14 @@ layout: post
 
 title: Tejbegríz
 
+img:
+
+description:
+
 source: http://www.mindmegette.hu/tejbegriz.recept/
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

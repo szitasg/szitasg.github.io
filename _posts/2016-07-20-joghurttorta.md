@@ -3,7 +3,14 @@ layout: post
 
 title: Joghurttorta
 
+img:
+
 description: Egy igazán könnyed és frissítő sütemény a nyári melegben
+
+source:
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

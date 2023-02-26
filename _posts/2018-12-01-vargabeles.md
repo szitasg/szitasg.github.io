@@ -1,11 +1,16 @@
 ---
 layout: post
 
-description: Székely eredetű édes főétel / desszert, amelyet hagyományosan cérnametéltből készítenek tejjel, túróval és mazsolával.
-
 title: Vargabéles
 
+img:
+
+description: Székely eredetű édes főétel / desszert, amelyet hagyományosan cérnametéltből készítenek tejjel, túróval és mazsolával.
+
 source: https://www.mindmegette.hu/vargabeles-v.recept/
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia

@@ -3,7 +3,14 @@ layout: post
 
 title: Vadas csirke
 
+img:
+
+description:
+
 source: https://www.nosalty.hu/recept/vadas-csirke-zsemlegomboccal
+
+languages:
+  - hu
 
 tags:
   - name: gasztronómia
