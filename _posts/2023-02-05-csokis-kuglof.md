@@ -23,7 +23,7 @@ tags:
 Módosítva az eredeti recepthez képest
 
  - 200 g liszt
- - 125 g vaj
+ - 125 g olvasztott vaj
  - 2 tojás
  - 100 g étcsokoládé
  - 80 g porcukor

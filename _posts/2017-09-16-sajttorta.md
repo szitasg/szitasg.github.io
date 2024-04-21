@@ -26,7 +26,7 @@ Módosítva az eredeti recepthez képest
 
 #### A tésztához
  - 40 dkg édes tere-fere keksz darálva
- - 10 dkg olvasztott vaj
+ - 100 g olvasztott vaj
 
 #### A sajttöltelékhez
  - 25 dkg mascarpone (SPAR-ossal tesztelve)

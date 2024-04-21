@@ -22,7 +22,7 @@ tags:
 ### Hozzávalók
  - 1 csomag réteslap 
  - 15 dkg cérnametélt 
- - 5 dkg vaj 
+ - 50 g vaj 
  - 40 dkg túró 
  - 1 dl tejföl 
  - 3 db tojás 
