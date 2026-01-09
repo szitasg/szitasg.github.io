@@ -22,6 +22,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 Módosítva az eredeti recepthez képest
 
  - 500 g mascarpone
@@ -31,6 +32,7 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
+
 A hozzávalókat robotgép segítségével kikeverjük.
 
 Miután a krémet betöltöttük (tortába, roládba vagy akár téli fagyinak) tegyük

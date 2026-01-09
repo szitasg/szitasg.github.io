@@ -22,6 +22,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 Módosítva az eredeti recepthez képest
 
  - 5 dl tej
@@ -33,11 +34,12 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
-A tejszínt és a tejet elkezdjük felforralni, közben a tojássárgájákat habosra 
- keverjük 2/3 cukorral, majd hozzáadjuk a forrásban lévő tejes-tejszínes 
+
+A tejszínt és a tejet elkezdjük felforralni, közben a tojássárgájákat habosra
+ keverjük 2/3 cukorral, majd hozzáadjuk a forrásban lévő tejes-tejszínes
  keverékhez és pár percig, folyamatos keverés mellett felforraljuk.
 
-A málnát a maradék cukorral kb. 10-15 percig kevergetve sűrítjük/forraljuk, majd 
+A málnát a maradék cukorral kb. 10-15 percig kevergetve sűrítjük/forraljuk, majd
  egy szűrőn átpaszírozzuk.
 
 A sűrű málnalevet és a tojássárgájás keveréket összeöntjük, belekeverjük az

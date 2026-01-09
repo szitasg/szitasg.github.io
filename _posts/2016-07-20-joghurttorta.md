@@ -22,6 +22,7 @@ tags:
 ---
 
 ### Hozzávalók
+
  - 3 × 175 g-os natúr joghurt
  - 3 dl habtejszín
  - 1 csomag zselatin
@@ -31,6 +32,7 @@ tags:
 
 
 ### Elkészítés
+
 A tejszínt kemény habbá verjük. Közben a joghurtot a kétféle cukorral egy
  lábasban feltesszük melegedni. Ha a cukor elolvadt (nem kell felforralni!)
  beletesszük a kevés vízben feloldott zselatint, és nagyon alaposan elkeverjük

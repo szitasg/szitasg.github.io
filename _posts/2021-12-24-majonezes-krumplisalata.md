@@ -20,6 +20,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 Módosítva az eredeti recepthez képest
 
  - 500 g krumpli
@@ -31,10 +32,11 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
+
 Módosítva az eredeti recepthez képest
 
-A krumplit meghámozzuk, felszeleteljük és megfőzzük. Egy tálban összekeverjük a 
- majonézt a tejföllel, beleszórjuk a vékonyra vágott lilahagymát/hagymát, majd 
+A krumplit meghámozzuk, felszeleteljük és megfőzzük. Egy tálban összekeverjük a
+ majonézt a tejföllel, beleszórjuk a vékonyra vágott lilahagymát/hagymát, majd
  sózzuk, borsozzuk és belekeverjük a krumplit.
 
 Hogy az ízek összeérjenek célszerű előző este elkészíteni.

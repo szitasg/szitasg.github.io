@@ -20,6 +20,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 2 főre
 
  - 5 dl tej (ha azt akarod hogy folyjon + 0.5 dl)
@@ -28,5 +29,6 @@ tags:
 
 
 ### Elkészítés
+
 Minden hozzávalót összeöntünk, majd folyamatos keverés mellett főzzük, amíg
  sűrűsödni kezd.

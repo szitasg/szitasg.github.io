@@ -22,6 +22,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 Módosítva az eredeti recepthez képest
 
  - 70 dkg sárgarépa
@@ -40,6 +41,7 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
+
 A répákat és a hagymát megpucoljuk, és közepesre aprítjuk. Az egészet egyben
  feltesszük főni, annyi vizet öntünk rá, hogy éppen ellepje. Só, kevés bors,
  babérlevél, kevés kurkuma. Forraljuk, majd lassú tűzön legalább 1/2 órán át

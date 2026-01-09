@@ -5,7 +5,7 @@ title: Pulled pork
 
 img:
 
-description:
+description: Tökéletes BBQ, konyhai kivitelben
 
 source: https://streetkitchen.hu/receptek/a-legszaftosabb-pulled-pork-szendvics
 
@@ -24,8 +24,12 @@ tags:
 ---
 
 ### Hozzávalók
+
+8 főre
+
 Módosítva az eredeti recepthez képest
 
+ - 1.2 kg sertéscomb vagy -lapocka
  - 2 ek cukor
  - 2 tk fűszerpaprika
  - 1 tk őrölt fekete bors
@@ -45,6 +49,7 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
+
 A hozzávalókat robotgép segítségével kikeverjük.
 
 A fűszerkeverékhez a száraz fűszereket összekeverjük, majd hozzáadjuk a
@@ -67,3 +72,8 @@ Ha kész, kiszedjük egy tálba a húst (akár darabokban) és 2 villa vagy egy
 Ha szaftosabbá szeretnénk tenni, akkor a lábasban maradó szaftot még
  ráönthetjük, de ezt eltehetjük későbbi grillezésekhez is szósz gyanánt. Ha ezt
  választjuk, akkor forraljuk még pár percig a mártást, majd kész is!
+
+
+### Sütés
+
+Előmelegített sütő, 130 °C, alul felül légkeverés, 4 óra

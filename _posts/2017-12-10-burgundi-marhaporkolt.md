@@ -24,6 +24,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 2 főre
 
  - 60 dkg marhalábszár
@@ -46,6 +47,7 @@ tags:
 
 
 ### Elkészítés
+
 A húst nagyobb kockákra vágjuk és kevés olajon több részletben jó alaposan
  lepirítjuk, majd kiszedjük a lábasból. A lepirult cuccon üvegesre pároljuk a
  finomra vágott vöröshagymát majd hozzákeverjük a paradicsompürét, ha

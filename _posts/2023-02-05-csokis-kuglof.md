@@ -20,6 +20,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 Módosítva az eredeti recepthez képest
 
  - 200 g liszt
@@ -32,11 +33,12 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
+
 Módosítva az eredeti recepthez képest
 
 Tedd egy keverőtálba a porcukrot és az egész tojásokat, majd robotgéppel dolgozd
- jó habosra. Lassan csorgasd bele az olvasztott vajat és a tejet. Végül szitáld 
- hozzá a sütőporral összekevert lisztet, és dolgozd simára a masszát. A széttört 
+ jó habosra. Lassan csorgasd bele az olvasztott vajat és a tejet. Végül szitáld
+ hozzá a sütőporral összekevert lisztet, és dolgozd simára a masszát. A széttört
  étcsokoládét keverd a tésztához. A tésztát tedd a szilikonos kuglófformába.
 
 Helyezd előmelegített sütőbe. Mikor elkészült hagyd egy kicsit a formában, majd

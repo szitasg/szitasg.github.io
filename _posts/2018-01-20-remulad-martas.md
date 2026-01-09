@@ -20,6 +20,7 @@ tags:
 ---
 
 ### Hozzávalók
+
  - 100 g savanyú uborka
  - 100 ml tejföl
  - 2 ek mustár
@@ -36,5 +37,6 @@ tags:
 
 
 ### Elkészítés
+
 Minden hozzávalót egy késes aprítóba pakolunk, és alaposan összezúzzuk – nem
  kell teljesen pépesre, picit darabos azért maradhat.

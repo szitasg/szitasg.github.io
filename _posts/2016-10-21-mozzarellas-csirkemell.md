@@ -5,7 +5,7 @@ title: Mozzarellás csirkemell
 
 img:
 
-description: 
+description:
 
 source:
 
@@ -22,6 +22,7 @@ tags:
 ---
 
 ### Hozzávalók
+
  - 40 dkg csirkemell
  - 2 zacskó mozzarella
  - 4-5 db nagy paradicsom
@@ -34,6 +35,7 @@ tags:
 
 
 ### Elkészítés
+
 A csirkemellet megmossuk és átlósan vékonyabb szeletekre vágjuk, melyeket egy
  kiolajozott üvegtálba fektetünk. Rákarikázzuk először a mozzarellát, majd a
  paradicsomot, a rétegeket egyenként fűszerezzük, és meglocsoljuk olívaolajjal.
@@ -45,4 +47,5 @@ Salátával, grillezett zöldséggel tálaljuk.
 
 
 ### Sütés
+
 Előmelegített sütő, 180 °C, légkeverés, 25 perc

@@ -20,6 +20,7 @@ tags:
 ---
 
 ### Hozzávalók
+
  - 1.2 kg újburgonya
  - olívaolaj
  - só
@@ -28,6 +29,7 @@ tags:
 
 
 ### Elkészítés
+
 A burgonyát jó alaposan mossuk meg egyenként, és héjában tegyük fel főni enyhén
  sós vízben. Mikor kést szúrunk bele, és érezzük, hogy a közepe is puha - kb. 50
  perc főzés után - akkor elkészült. Öntsük le róla a vizet, és készítsünk elő
@@ -43,4 +45,5 @@ A megfőtt burgonyaszemeket héjában cikkezzük fel, majd rendezzük el a
 
 
 ### Sütés
+
 Előmelegített sütő, 200 °C, alul felül sütés, 40 perc

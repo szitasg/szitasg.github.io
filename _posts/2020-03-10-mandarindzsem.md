@@ -20,6 +20,7 @@ tags:
 ---
 
 ### Hozzávalók
+
 Módosítva az eredeti recepthez képest
 
  - 1 kg mandarin
@@ -30,6 +31,7 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
+
 Pucoljunk meg 1-2 mandarint, szedjük ki a gyümölcshúst a hártyából, majd tegyük
  egy nagyobb edénybe. Adjuk hozzá a többi mandarin levét és rostját (ezt
  citromfacsaróval a legkönnyebb és leggyorsabb).

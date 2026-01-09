@@ -22,13 +22,16 @@ tags:
 ---
 
 ### Hozzávalók
+
 Módosítva az eredeti recepthez képest
 
 #### A tésztához
+
  - 40 dkg édes tere-fere keksz darálva
  - 100 g olvasztott vaj
 
 #### A sajttöltelékhez
+
  - 25 dkg mascarpone (SPAR-ossal tesztelve)
  - 1 cs vaníliás-cukor
  - 10 dkg cukor (a vaníliás cukorral együtt)
@@ -37,6 +40,7 @@ Módosítva az eredeti recepthez képest
 
 
 ### Elkészítés
+
 A sütőt melegítsd elő. A tésztához a hozzávalókat alaposan keverd össze, majd
  simítsd kb. 20-22 cm átmérőjű sütőtálba.
 
@@ -51,4 +55,5 @@ Amikor lehűlt, a sajttortát tedd hűtőszekrénybe, majd hidegen szeleteld.
 
 
 ### Sütés
+
 Előmelegített sütő, 170 °C, alul felül sütés, 35 perc
